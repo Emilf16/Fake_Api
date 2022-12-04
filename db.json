@@ -252,65 +252,6 @@
    "Latitud": 17.7995,
    "Longitud": "-71.3944"
  },
- {
-   "CodigoPlantel": 16002510,
-   "PlantelEducativo": "GASTON FERNANDO DELIGNE",
-   "Sector": "PUBLICO",
-   "Estado": "Autorizado",
-   "Zona": "URBANA",
-   "Niveles": "ADULTOS",
-   "Provincia": "PEDERNALES",
-   "Municipio": "OVIEDO",
-   "Latitud": 17.8021,
-   "Longitud": ",-71.401"
- },
- {
-   "CodigoPlantel": 16022269,
-   "PlantelEducativo": "SILVESTRE ANTONIO GUZMAN FERNANDEZ",
-   "Sector": "PUBLICO",
-   "Estado": "Autorizado",
-   "Zona": "URBANA",
-   "Niveles": "SECUNDARIO",
-   "Provincia": "PEDERNALES",
-   "Municipio": "OVIEDO",
-   "Latitud": 17.861303,
-   "Longitud": "-71.287207"
- },
- {
-   "CodigoPlantel": 16018370,
-   "PlantelEducativo": "ESCUELA PARROQUIAL DIVINO NI�O",
-   "Sector": "PUBLICO",
-   "Estado": "Autorizado",
-   "Zona": "URBANA",
-   "Niveles": "INICIAL - PRIMARIO - SECUNDARIO",
-   "Provincia": "PEDERNALES",
-   "Municipio": "PEDERNALES",
-   "Latitud": 18.041738,
-   "Longitud": "-71.741296"
- },
- {
-   "CodigoPlantel": 16005216,
-   "PlantelEducativo": "LUIS EMILIO PEREZ MENDEZ",
-   "Sector": "PUBLICO",
-   "Estado": "Autorizado",
-   "Zona": "URBANA",
-   "Niveles": "INICIAL - PRIMARIO",
-   "Provincia": "PEDERNALES",
-   "Municipio": "PEDERNALES",
-   "Latitud": 18.0457,
-   "Longitud": "-71.7373"
- },
- {
-   "CodigoPlantel": 16000218,
-   "PlantelEducativo": "HERNANDO GORJON",
-   "Sector": "PUBLICO",
-   "Estado": "Autorizado",
-   "Zona": "URBANA",
-   "Niveles": "ADULTOS",
-   "Provincia": "PEDERNALES",
-   "Municipio": "PEDERNALES",
-   "Latitud": 18.0325,
-   "Longitud": "-71.7467"
  },
 ],
 }
