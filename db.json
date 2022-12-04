@@ -48,29 +48,5 @@
    "Latitud": 18.086838,
    "Longitud": "-71.665969"
  },
- {
-   "CodigoPlantel": 16001119,
-   "PlantelEducativo": "ARSENIO PEREZ PE�A",
-   "Sector": "PUBLICO",
-   "Estado": "Autorizado",
-   "Zona": "URBANA",
-   "Niveles": "INICIAL - PRIMARIO",
-   "Provincia": "PEDERNALES",
-   "Municipio": "PEDERNALES",
-   "Latitud": 18.173358,
-   "Longitud": "-71.742050"
- },
- {
-   "CodigoPlantel": 16001411,
-   "PlantelEducativo": "PROF. LUIS DIAZ DIAZ",
-   "Sector": "PUBLICO",
-   "Estado": "Autorizado",
-   "Zona": "RURAL",
-   "Niveles": "INICIAL - PRIMARIO - SECUNDARIO",
-   "Provincia": "PEDERNALES",
-   "Municipio": "PEDERNALES",
-   "Latitud": 18.188897,
-   "Longitud": "-71.726246"
- },
 ],
 }
