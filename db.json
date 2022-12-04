@@ -1,4 +1,5 @@
-[
+{
+ "escuelas": [
  {
    "CodigoPlantel": null,
    "PlantelEducativo": "",
@@ -5016,3 +5017,4 @@
    "Longitud": "-71.5775"
  },
  ]
+}
