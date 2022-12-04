@@ -24,29 +24,5 @@
    "Latitud": 18.045131,
    "Longitud": "-71.743074"
  },
- {
-   "CodigoPlantel": 16000812,
-   "PlantelEducativo": "EZEQUIEL HERNANDEZ MENDEZ",
-   "Sector": "PUBLICO",
-   "Estado": "Autorizado",
-   "Zona": "URBANA",
-   "Niveles": "INICIAL - PRIMARIO - SECUNDARIO",
-   "Provincia": "PEDERNALES",
-   "Municipio": "PEDERNALES",
-   "Latitud": 18.040663,
-   "Longitud": "-71.748256"
- },
- {
-   "CodigoPlantel": 16001015,
-   "PlantelEducativo": "EULALIO EMILIO MANCEBO REYES",
-   "Sector": "PUBLICO",
-   "Estado": "Autorizado",
-   "Zona": "RURAL",
-   "Niveles": "INICIAL - PRIMARIO",
-   "Provincia": "PEDERNALES",
-   "Municipio": "PEDERNALES",
-   "Latitud": 18.086838,
-   "Longitud": "-71.665969"
- },
 ],
 }
